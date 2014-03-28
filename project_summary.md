@@ -1,8 +1,8 @@
 # Project Title
-Insert the name of your project
+Blend
 
 ## Authors
-- Insert main author name, surname, github account
+- Tri Sundara (tri3code@gmail.com)
 - Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
